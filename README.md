@@ -1,6 +1,5 @@
 # Kotlin-Fundamentals-Training
 
-This program include task i need to complete, which is:<br>
 <h3>Task 1</h3>
 <p>
 Make two variable x=10, y=20. Then switch it to x=20, y=10
@@ -50,7 +49,7 @@ Make a program to check, is word inputed by user a palindrome word or not.
 <p>
 Make a program to reverse a word inputed by user.
 </p>
-<h3>Task 12</h3>
+<h3>Task 13</h3>
 <p>
 Make a program to divide a number from value of '0', and then sort it
 </p>

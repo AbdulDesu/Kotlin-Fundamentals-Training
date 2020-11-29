@@ -1,4 +1,4 @@
-package task_12
+package task_12_twelve
 
 fun main () {
     println("TASK 12")
